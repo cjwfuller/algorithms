@@ -8,7 +8,6 @@
 def lis(sequence):
     all_lis = [[sequence[0]]]
     for idx, s in enumerate(sequence):
-        endx = sequence[idx]
         for idy, l in enumerate(all_lis):
             endy = all_lis[idy][-1]
             if(s > endy):

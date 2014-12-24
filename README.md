@@ -1,4 +1,4 @@
 Algorithms
 ==========
 
-Implementations of various popular algorithms
+Implementations of various algorithms
